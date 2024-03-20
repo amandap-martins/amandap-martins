@@ -5,7 +5,7 @@
 <br>
 
 ## 🔭 Trabalho
-Atualmente trabalho como Desenvolvedora Júnior na empresa Privat Tech Services
+Atualmente trabalho como Desenvolvedora Júnior.
 
 <br>
 
