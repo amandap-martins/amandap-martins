@@ -37,7 +37,7 @@ Inglês intermediário
 ## 🌱 Estou aprendendo
 Sempre estou estudando as tecnologias citadas acima, mas minha atenção está mais focado atualmente na citada abaixo.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="80"/>
 
 <br>
 
