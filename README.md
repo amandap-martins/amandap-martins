@@ -5,7 +5,7 @@
 <br>
 
 ## 🔭 Trabalho
-Atualmente trabalho como Desenvolvedora Júnior.
+Atualmente trabalho como Desenvolvedora Frontend Júnior.
 
 <br>
 
